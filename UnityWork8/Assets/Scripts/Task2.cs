@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Taks2 : MonoBehaviour
+public class Task2 : MonoBehaviour
 {
     [SerializeField] private float _speed;
     [SerializeField] private float _dst;
